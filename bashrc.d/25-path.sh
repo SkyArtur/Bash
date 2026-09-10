@@ -1,0 +1,1 @@
+export PATH="$PATH:$HOME/.myenv/bin:$HOME/.projetos/bin"
